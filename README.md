@@ -115,5 +115,3 @@ This project is licensed under the **MIT License** — free to fork and reuse wi
 ```
 
 
-Would you like me to design a **simple Canva layout guide** for the banner (dimensions, color scheme, and font ideas to match your ServiceNow-style branding)?
-```

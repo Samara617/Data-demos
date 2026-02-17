@@ -18,7 +18,7 @@ Each folder contains a complete mini-project: code, data, and visual outputs tha
 
 ## 🔹 Projects Included
 
-### 1️⃣ [Sales Data Cleaning Demo](./sales_data_cleaning_demo)
+### 1️⃣ [Sales Data Cleaning Demo](./data-demos/sales_data_cleaning_demo)
 **Goal:** Clean and visualize messy sales data to uncover insights.
 
 **Highlights**
@@ -42,7 +42,7 @@ make report
 
 ---
 
-### 2️⃣ [ServiceNow Incident Analysis Demo](./servicenow_incident_analysis_demo)
+### 2️⃣ [ServiceNow Incident Analysis Demo](./data-demos/servicenow_incident_analysis_demo)
 
 **Goal:** Analyze ServiceNow-style incident data for SLA health and team performance.
 

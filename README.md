@@ -18,7 +18,7 @@ Each folder contains a complete mini-project: code, data, and visual outputs tha
 
 ## 🔹 Projects Included
 
-### 1️⃣ [Sales Data Cleaning Demo](./data-demos/sales_data_cleaning_demo)
+### 1️⃣ [Sales Data Cleaning Demo](data-demos/sales_data_cleaning_demo)
 **Goal:** Clean and visualize messy sales data to uncover insights.
 
 **Highlights**

@@ -42,7 +42,7 @@ make report
 
 ---
 
-### 2️⃣ [ServiceNow Incident Analysis Demo](./data-demos/servicenow_incident_analysis_demo)
+### 2️⃣ [ServiceNow Incident Analysis Demo](data-demos/servicenow_incident_analysis_demo)
 
 **Goal:** Analyze ServiceNow-style incident data for SLA health and team performance.
 
